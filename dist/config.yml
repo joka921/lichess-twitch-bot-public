@@ -1,0 +1,4 @@
+token: "xxxxxx"    # lichess OAuth2 Token
+twitch-token: "xxxxxx"
+twitch-channel: "#krautschupfnudeln"
+url: "https://lichess.org/"  # lichess base URL
